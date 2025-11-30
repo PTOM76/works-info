@@ -141,8 +141,10 @@
         },
         "tag": [
             "pukiwiki",
+            "bot",
             "framework",
-            "python"
+            "python",
+            "library"
         ],
         "category": "pukiwiki",
         "custom": {}
@@ -1821,6 +1823,574 @@
         "tag": [
             "minecraft",
             "mod"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "chatdurationplus",
+        "name": "ChatDurationPlus",
+        "description": "R.E.P.O向けのチャットの表示時間を延長するMod。",
+        "version": "",
+        "category": "repomod",
+        "author": "PitaQ",
+        "url": "https://thunderstore.io/c/repo/p/PTOM76/ChatDurationPlus/",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {},
+        "tag": [
+            "r-e-p-o",
+            "mod"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "reaper_video_script",
+        "name": "Reaper Video Script",
+        "description": "REAPER動画プロセッサ用JSFXスクリプト。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/reaper-video-script",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/reaper-video-script"
+        },
+        "tag": [
+            "reaper",
+            "jsfx",
+            "script"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "mcpitanlib_intellij_plugin",
+        "name": "MCPitanLib IntelliJ Plugin",
+        "description": "MCPitanLib用のテンプレから自動でModの開発環境を構築するIntelliJプラグイン。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/mcpitanlib-intellij-plugin",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/mcpitanlib-intellij-plugin"
+        },
+        "tag": [
+            "mcpitanlib",
+            "intellij",
+            "plugin"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "ellipsisk",
+        "name": "ellipsiSk",
+        "description": "試しにつくったSkriptプラグイン。",
+        "version": "",
+        "category": "mcplugin",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/ellipsiSk",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/ellipsiSk"
+        },
+        "tag": [
+            "minecraft",
+            "skript",
+            "plugin",
+            "bukkit"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "skvaniject",
+        "name": "SkVaniject",
+        "description": "Skellettで代用できるらしいです、Objective操作のSkriptプラグイン。",
+        "version": "",
+        "category": "mcplugin",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/SkVaniject",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/SkVaniject"
+        },
+        "tag": [
+            "minecraft",
+            "skript",
+            "plugin",
+            "bukkit"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "skript_scripts",
+        "name": "Skriptのスクリプト群",
+        "description": "作成したSkriptのスクリプト集。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/Skript",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/Skript"
+        },
+        "tag": [
+            "minecraft",
+            "skript",
+            "script"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "cleaskin",
+        "name": "Cleaskin",
+        "description": "ブログとして使えそうな明るいPukiWikiスキン。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/pukiwiki-cleaskin",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/pukiwiki-cleaskin"
+        },
+        "tag": [
+            "pukiwiki",
+            "skin"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "wikichree_dev_plugins",
+        "name": "WikiChree.COM開発プラグイン群",
+        "description": "WikiChree.COMオリジナルのPukiWikiプラグイン群。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://wikichree.com/?WikiChree.COM開発プラグイン",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "wiki": "https://wikichree.com/?WikiChree.COM開発プラグイン"
+        },
+        "tag": [
+            "pukiwiki",
+            "plugin",
+            "wikichree",
+            "pack"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "pukiwiki_bot",
+        "name": "PukiWiki-Bot",
+        "description": "PukiWikiのボットとやり取りするためのPukiWikiプラグイン。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/PukiWiki-Bot",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/PukiWiki-Bot"
+        },
+        "tag": [
+            "pukiwiki",
+            "plugin"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "mini_pukibot_py",
+        "name": "Mini-PukiBot-Py",
+        "description": "PukiBot-Pyの軽量版ライブラリ。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/Mini-PukiBot-Py",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/Mini-PukiBot-Py"
+        },
+        "tag": [
+            "pukiwiki",
+            "bot",
+            "python",
+            "framework",
+            "library"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "pukibot_java",
+        "name": "PukiBot-Java",
+        "description": "PukiWikiのボットを作成するためのJavaライブラリ。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/PukiBot-Java",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/PukiBot-Java"
+        },
+        "tag": [
+            "pukiwiki",
+            "bot",
+            "java",
+            "framework",
+            "library"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "playerrealms_server_checker",
+        "name": "PlayerRealms Server Checker",
+        "description": "Player Realmsの各サーバー情報を取得して表示するDiscordのボット。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/PlayerRealmsServerChecker",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/PlayerRealmsServerChecker"
+        },
+        "tag": [
+            "discord",
+            "bot",
+            "minecraft",
+            "playerrealms"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "myblogs",
+        "name": "MyBlogs",
+        "description": "PHP製のシンプルなブログシステム。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/MyBlogs",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/MyBlogs"
+        },
+        "tag": [
+            "php",
+            "blog",
+            "cms"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "wikichree_com",
+        "name": "WikiChree.COM",
+        "description": "無料で使えるウィキ、PukiWikiのホスティングサービス。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://wikichree.com/",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "website": "https://wikichree.com/"
+        },
+        "tag": [
+            "web",
+            "webapp",
+            "pukiwiki",
+            "hosting"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "bota_search_tool",
+        "name": "ボ対検索ツール",
+        "description": "ボイパ対決という音MADに特化した検索ツール。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://vps-search.pitan76.net/",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "website": "https://vps-search.pitan76.net/"
+        },
+        "tag": [
+            "web",
+            "webapp"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "psnverse_community",
+        "name": "Psnverseコミュニティ",
+        "description": "PlayStationの非公式掲示板コミュニティ。(2020年以来放置)",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://psnverse.pitan76.net/",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "website": "https://psnverse.pitan76.net/"
+        },
+        "tag": [
+            "web",
+            "webapp"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "anonymous_quiz",
+        "name": "匿名クイズ",
+        "description": "匿名でクイズを作成できるWebツール。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://2023.pitan76.net/tools/toquiz/index.html",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "website": "https://2023.pitan76.net/tools/toquiz/index.html"
+        },
+        "tag": [
+            "web",
+            "tools"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "tools_2023_pitan76",
+        "name": "2023.pitan76.net/tools/",
+        "description": "2023年に作成したWebツールのまとめページ。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://2023.pitan76.net/tools/",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "website": "https://2023.pitan76.net/tools/"
+        },
+        "tag": [
+            "web",
+            "tools"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "tools_2020_pkom",
+        "name": "2020.pitan76.net/?Webツール",
+        "description": "2020年に作成したWebツールのまとめページ。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://pkom.pitan76.net/?Web%E3%83%84%E3%83%BC%E3%83%AB",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "website": "https://pkom.pitan76.net/?Web%E3%83%84%E3%83%BC%E3%83%AB"
+        },
+        "tag": [
+            "web",
+            "tools"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "tuibian",
+        "name": "Tuibian",
+        "description": "TUIベースのDebian派生カスタムLinuxディストリ/TUIアプリ。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/tuibian",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/tuibian"
+        },
+        "tag": [
+            "linux",
+            "debian",
+            "tui",
+            "distro",
+            "os"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "maven_repository",
+        "name": "Mavenリポジトリ",
+        "description": "私のMavenリポジトリです。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://maven.pitan76.net/",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "website": "https://maven.pitan76.net/"
+        },
+        "tag": [
+            "maven",
+            "web"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "github_pitan76_star_counter",
+        "alias": ["github-star-counter", "githubstarcounter", "github-pitan76-star-counter"],
+        "name": "GitHub Star Counter",
+        "description": "GitHubアカウントの合計スター数のカウンタ画像を出力するPHP製ツール。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/github-pitan76-star-counter",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/github-pitan76-star-counter"
+        },
+        "tag": [
+            "github",
+            "php",
+            "tool"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "my-html-vault",
+        "name": "HTML置き場",
+        "description": "私だけがアップロードできるHTMLファイル置き場。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://html.pitan76.net/",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "website": "https://html.pitan76.net/"
+        },
+        "tag": [
+            "web",
+            "html"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "my-mod-development-status-checker",
+        "name": "自作MOD開発状況チェッカー",
+        "description": "AIに生成してもらった自作MODの開発状況チェッカー。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://html.pitan76.net/4b9733627a16fcc445f55b4f4d9f2bd2",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "website": "https://html.pitan76.net/4b9733627a16fcc445f55b4f4d9f2bd2"
+        },
+        "tag": [
+            "web",
+            "tool",
+            "generated-by-ai"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "html-viewer",
+        "name": "HTML Viewer",
+        "description": "HTMLビューワー",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://html.pitan76.net/html-viewer",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "website": "https://html.pitan76.net/html-viewer"
+        },
+        "tag": [
+            "web",
+            "tool",
+            "html"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "docs_generated_by_ai",
+        "name": "Gemini AIが生成したHTML資料群",
+        "description": "教材、資料などのHTMLファイル一覧",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://pitan76.github.io/docs/",
+        "license": "",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "website": "https://pitan76.github.io/docs/"
+        },
+        "tag": [
+            "web",
+            "tool",
+            "generated-by-ai"
+        ],
+        "custom": {}
+    },
+    {
+        "id": "tuibian-menu",
+        "alias": ["tb-menu"],
+        "name": "Tuibian Menu",
+        "description": "TUIで作られたTuibian用ランチャーメニュー。",
+        "version": "",
+        "category": "other",
+        "author": "PitaQ",
+        "url": "https://github.com/PTOM76/tuibian-menu",
+        "license": "MIT",
+        "createAt": "",
+        "updateAt": "",
+        "site": {
+            "github": "https://github.com/PTOM76/tuibian-menu"
+        },
+        "tag": [
+            "linux",
+            "tui",
+            "tool"
         ],
         "custom": {}
     }
