@@ -783,8 +783,10 @@
         "createAt": "2021/10/31",
         "updateAt": "2024/03/29",
         "site": {
+            "github": "https://github.com/Pitan76/AdvancedReborn",
             "wiki": "https://wikichree.com/pitan76/?AdvancedReborn",
-            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/advancedreborn"
+            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/advancedreborn",
+            "modrinth": "https://modrinth.com/mod/advanced-reborn"
         },
         "tag": [
             "minecraft",
@@ -795,7 +797,8 @@
         "category": "mcmod",
         "custom": {
             "mcversion": "1.16.5-1.20.4",
-            "cf_projectid": 543089
+            "cf_projectid": 543089,
+            "images": ["https://www.pitan76.net/image/mcmod/advancedreborn.png"]
         }
     },
     {
@@ -837,6 +840,7 @@
         "site": {
             "wiki": "https://wikichree.com/pitan76/?Enhanced+Quarries",
             "github": "https://github.com/PTOM76/EnhancedQuarries",
+            "modrinth": "https://modrinth.com/mod/enhancedquarries",
             "curseforge": "https://www.curseforge.com/minecraft/mc-mods/enhancedquarries"
         },
         "tag": [
@@ -847,7 +851,8 @@
         "category": "mcmod",
         "custom": {
             "mcversion": "1.16.5-1.20.4",
-            "cf_projectid": 528338
+            "cf_projectid": 528338,
+            "image": ["https://www.pitan76.net/image/mcmod/enhancedquarries.png"]
         }
     },
     {
@@ -856,7 +861,7 @@
         "name": "Item Alchemy",
         "description": "ProjectE/EEのようなEMCや変換テーブルなどを追加するMOD<br />前提MOD: MCPitanLib",
         "version": "0.8.7",
-        "author": "PitaQ, mymai1208, OffsetMonkey538",
+        "author": "PitaQ, mymai1208, OffsetMonkey538, anthonymendez, Murderman25, 54sda",
         "url": "https://www.curseforge.com/minecraft/mc-mods/item-alchemy-fabric",
         "license": "MIT",
         "createAt": "2022/11/05",
@@ -864,7 +869,8 @@
         "site": {
             "wiki": "https://wikichree.com/pitan76/?Item+Alchemy",
             "github": "https://github.com/Pitan76/item-alchemy",
-            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/item-alchemy-fabric"
+            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/item-alchemy-fabric",
+            "modrinth": "https://modrinth.com/mod/item-alchemy"
         },
         "tag": [
             "minecraft",
@@ -874,7 +880,8 @@
         "category": "mcmod",
         "custom": {
             "mcversion": "1.17-1.20.4",
-            "cf_projectid": 697926
+            "cf_projectid": 697926,
+            "image": ["https://www.pitan76.net/image/mcmod/item-alchemy.png"]
         }
     },
     {
@@ -1070,7 +1077,8 @@
         "updateAt": "2024/02/15",
         "site": {
             "github": "https://github.com/Pitan76/ordinary-crook",
-            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ordinary-crook"
+            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ordinary-crook",
+            "modrinth": "https://modrinth.com/mod/ordinary-crook"
         },
         "tag": [
             "minecraft",
@@ -1081,7 +1089,8 @@
         "category": "mcmod",
         "custom": {
             "mcversion": "1.16.4-1.20.4",
-            "cf_projectid": 683097
+            "cf_projectid": 683097,
+            "image": ["https://www.pitan76.net/image/mcmod/ordinary-crook.png"]
         }
     },
     {
@@ -1198,7 +1207,7 @@
         "id": "memoryusagetitle",
         "name": "Memory Usage Title",
         "description": "メモリ使用量をタイトルバーに表示するだけのMOD<",
-        "version": "1.0.0",
+        "version": "1.0.2",
         "author": "PitaQ",
         "url": "https://www.curseforge.com/minecraft/mc-mods/memory-usage-title",
         "license": "MIT",
@@ -1206,7 +1215,8 @@
         "updateAt": "2024/02/20",
         "site": {
             "github": "https://github.com/PTOM76/memory-usage-title",
-            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/memory-usage-title"
+            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/memory-usage-title",
+            "modrinth": "https://modrinth.com/mod/memory-usage-title"
         },
         "tag": [
             "minecraft",
@@ -1217,8 +1227,9 @@
         ],
         "category": "mcmod",
         "custom": {
-            "mcversion": "1.15-1.20.4",
-            "cf_projectid": 973764
+            "mcversion": "1.15-1.21.10",
+            "cf_projectid": 973764,
+            "images": ["https://www.pitan76.net/image/mcmod/memory-usage-title.png"]
         }
     },
     {
@@ -1260,7 +1271,8 @@
         "updateAt": "2024/03/04",
         "site": {
             "github": "https://github.com/PTOM76/mod-volume-options",
-            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mod-sound-volume-options"
+            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mod-sound-volume-options",
+            "modrinth": "https://modrinth.com/mod/mod-volume-options"
         },
         "tag": [
             "minecraft",
@@ -1272,7 +1284,8 @@
         "category": "mcmod",
         "custom": {
             "mcversion": "1.16.4-1.20.4",
-            "cf_projectid": 981874
+            "cf_projectid": 981874,
+            "images": ["https://www.pitan76.net/image/mcmod/mod-sound-volume-options.png"]
         }
     },
     {
@@ -1558,13 +1571,20 @@
         "createAt": "",
         "updateAt": "",
         "site": {
-            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cubicturret"
+            "github": "https://github.com/Pitan76/CubicTurret",
+            "wiki": "https://wikichree.com/pitan76/?Cubic+Turret",
+            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cubicturret",
+            "modrinth": "https://modrinth.com/mod/cubicturret"
         },
         "tag": [
             "minecraft",
             "fabric"
         ],
-        "custom": {}
+        "custom": {
+            "mcversion": "1.18.1-1.20.1",
+            "cf_projectid": 888222,
+            "images": ["https://www.pitan76.net/image/mcmod/cubicturret.png"]
+        }
     },
     {
         "id": "legacy_item_models",
