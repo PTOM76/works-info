@@ -1848,7 +1848,7 @@
     },
     {
         "id": "chatdurationplus",
-        "name": "ChatDurationPlus",
+        "name": "Chat Duration Plus",
         "description": "R.E.P.O向けのチャットの表示時間を延長するMod。",
         "version": "",
         "category": "repomod",
@@ -1862,7 +1862,9 @@
             "r-e-p-o",
             "mod"
         ],
-        "custom": {}
+        "custom": {
+            "images": ["https://www.pitan76.net/image/repomod/chatdurationplus.png"]
+        }
     },
     {
         "id": "reaper_video_script",
@@ -2142,10 +2144,12 @@
             "pukiwiki",
             "hosting"
         ],
-        "custom": {}
+        "custom": {
+            "images": ["https://www.pitan76.net/image/web/wikichree.png"]
+        }
     },
     {
-        "id": "bota_search_tool",
+        "id": "vps-search",
         "name": "ボ対検索ツール",
         "description": "ボイパ対決という音MADに特化した検索ツール。",
         "version": "",
@@ -2162,10 +2166,12 @@
             "web",
             "webapp"
         ],
-        "custom": {}
+        "custom": {
+            "images": ["https://www.pitan76.net/image/web/vps-search.png"]
+        }
     },
     {
-        "id": "psnverse_community",
+        "id": "psnverse",
         "name": "Psnverseコミュニティ",
         "description": "PlayStationの非公式掲示板コミュニティ。(2020年以来放置)",
         "version": "",

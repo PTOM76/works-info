@@ -510,12 +510,12 @@
         "description": "無料で使えるウィキ、PukiWikiのホスティングサービス。"
     },
     {
-        "id": "bota_search_tool",
+        "id": "vps-search",
         "name": "ボ対検索ツール",
         "description": "ボイパ対決という音MADに特化した検索ツール。"
     },
     {
-        "id": "psnverse_community",
+        "id": "psnverse",
         "name": "Psnverseコミュニティ",
         "description": "PlayStationの非公式掲示板コミュニティ。(2020年以来放置)"
     },
