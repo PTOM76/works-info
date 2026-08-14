@@ -4,12 +4,12 @@
         "alias": ["item-alchemy", "item_alchemy", "item-alchemy-fabric", "item_alchemy_fabric"],
         "name": "Item Alchemy",
         "description": "このMODはFabric用にProjectEのようなEMCや等価交換できる賢者の石などを追加します。",
-        "version": "0.8.7",
+        "version": "1.3.3",
         "author": "Pitan, mymai1208, OffsetMonkey538, anthonymendez, Murderman25, 54sda",
         "url": "https://www.curseforge.com/minecraft/mc-mods/item-alchemy-fabric",
         "license": "MIT",
         "createAt": "2022/11/05",
-        "updateAt": "2024/03/25",
+        "updateAt": "2026/06/22",
         "site": {
             "wiki": "https://wikichree.com/pitan76/?Item+Alchemy",
             "github": "https://github.com/Pitan76/item-alchemy",
@@ -24,7 +24,7 @@
         ],
         "category": "mcmod",
         "custom": {
-            "mcversion": "1.17-1.20.4",
+            "mcversion": "1.17-26.1.2",
             "cf_projectid": 697926,
             "images": ["https://www.pitan76.net/image/mcmod/item-alchemy.png"]
         }
