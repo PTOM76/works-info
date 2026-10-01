@@ -3051,6 +3051,7 @@
             "webapp"
         ],
         "custom": {
+            "images": ["https://www.pitan76.net/image/web/wevocalsynth.png"]
         }
     }
 ]
